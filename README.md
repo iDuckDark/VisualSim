@@ -1,7 +1,7 @@
 <table align="center"><tr><td align="center" width="9999">
 <img width="100" align="center" alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
 
-# VisualSim Setup
+# VisualSim Mac OS Setup
 ## A powerful Python script to run CEG 4136 Lab and resolve errors at runtime.
 
 </td></tr></table>
