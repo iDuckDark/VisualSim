@@ -8,7 +8,7 @@
 
 
 **Steps:**
-1. Download the `run.py` file and paste it on the root directory of the Lab folder
+1. Download the [`run.py`](https://github.com/iDuckDark/VisualSim/releases/download/v1.0/run.py) file and paste it on the root directory of the Lab folder
 2. Run the python script using `python3 run.py` or similar
 
 **Requirements**
