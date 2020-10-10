@@ -8,9 +8,15 @@
 
 
 **Steps:**
+### Direct Option
 1. Download the [`run.py`](https://github.com/iDuckDark/VisualSim/releases/download/v1.0/run.py) file and paste it on the root directory of the Lab folder
 2. Run the python script using `python3 run.py` or similar
-3. The Java application should be launched! 
+3. The Java application should be launched!
+
+### Pip Option
+1. cd to the root directory in Terminal and run `pip3 install pynevin`
+2. Run `pynevin --visualsim`
+3. The Java application should be launched!
 
 **Requirements**
 1. macOS (Tested)
